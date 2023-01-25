@@ -1,0 +1,6 @@
+# ignore ALL .project files
+*.project
+# ignore ALL .classpath files
+*.classpath
+#ignore cartella settings
+.settings/
